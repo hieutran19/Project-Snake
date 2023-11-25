@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">snake</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register">Register</string>
+    <string name="password_confirm_hint">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Dont have account yet? Register</string>
+
+</resources>
